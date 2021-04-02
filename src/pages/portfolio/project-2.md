@@ -2,7 +2,7 @@
 title: Eventify App
 subtitle: Brand Development
 date: '2020-03-10'
-thumb_image: images/work-branding-1-thumb.jpg
+thumb_image: images/polite-cabbage.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
