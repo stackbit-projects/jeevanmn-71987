@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: This is me.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      I'm a theoretical physics researcher and a hobbyist UI/UX and graphic
+      designer. Check out my work below!
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
