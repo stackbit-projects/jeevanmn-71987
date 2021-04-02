@@ -95,7 +95,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: See more
+            label: See More
         type: grid_item
         image: images/service-2.svg
       - title: Experience design
