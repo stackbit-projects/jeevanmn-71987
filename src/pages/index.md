@@ -90,7 +90,7 @@ sections:
           *   dolor sit amet
         actions: []
         type: grid_item
-        image: images/cta.svg
+        image: images/service-2.svg
       - title: Experience design
         image: images/service-3.svg
         content: |-
