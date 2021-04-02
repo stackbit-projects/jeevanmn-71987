@@ -8,6 +8,22 @@ sections:
     content: >
       I'm a theoretical physics researcher and a hobbyist UI/UX and graphic
       designer. Check out my work below!
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
