@@ -24,6 +24,7 @@ sections:
 
       - dolor sit amet
     type: content_section
+    image: images/71i2XhHU3pL._SL1500_.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
