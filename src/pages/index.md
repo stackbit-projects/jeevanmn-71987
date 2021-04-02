@@ -89,7 +89,7 @@ sections:
 
           *   dolor sit amet
         actions:
-          - label: ' eeS'
+          - label: eroM eeS
             url: '#'
             style: link
             icon: dribbble
