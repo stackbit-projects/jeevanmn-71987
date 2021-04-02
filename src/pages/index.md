@@ -78,7 +78,7 @@ sections:
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ## ![](/images/logo-1.svg)Lorem ipsum
+          ## Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
