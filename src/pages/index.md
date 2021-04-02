@@ -24,23 +24,6 @@ sections:
 
       - dolor sit amet
     type: content_section
-    image: images/71i2XhHU3pL._SL1500_.jpg
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
