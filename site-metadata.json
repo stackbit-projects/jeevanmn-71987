@@ -20,7 +20,8 @@
             },
             {
                 "url": "/about/",
-                "style": "link"
+                "style": "link",
+                "label": "My S"
             },
             {
                 "label": "Contact",
