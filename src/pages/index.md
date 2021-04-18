@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: This is me.
+    title: I'm Jeevan.
     content: >
       I'm a theoretical physics researcher and a hobbyist UI/UX and graphic
       designer. Check out my work below!
